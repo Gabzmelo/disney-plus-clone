@@ -18,5 +18,3 @@ Install the required dependencies
 Run the React project.
 
     npm start
-
-Thanks to CleverProgrammer for the inspiration!
